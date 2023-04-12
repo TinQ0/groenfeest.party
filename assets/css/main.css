@@ -1,6 +1,11 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic");
 
+@font-face {
+	font-family: 'Shrek';
+	src: url('SHREK.TTF') format('truetype');
+}
+
 /*
 	Photon by HTML5 UP
 	html5up.net | @ajlkn

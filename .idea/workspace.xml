@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f800985-33db-4e03-9ac3-8eb2383af99c" name="Changes" comment="New theme, switch to photon">
-      <change afterPath="$PROJECT_DIR$/images/commissiefoto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/groenfeest logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/groenfeestLogo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/malthaSports.jpg" afterDir="false" />
+    <list default="true" id="0f800985-33db-4e03-9ac3-8eb2383af99c" name="Changes" comment="First draft">
+      <change afterPath="$PROJECT_DIR$/assets/css/SHREK.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/stud-logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/stud-logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/header.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic06.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,13 +47,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;new__design&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/twix/Developer/groenfeest.party&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -97,7 +92,10 @@
       <workItem from="1676982324645" duration="2076000" />
       <workItem from="1677232419150" duration="7320000" />
       <workItem from="1678706104711" duration="1359000" />
-      <workItem from="1678723370927" duration="4681000" />
+      <workItem from="1678723370927" duration="5550000" />
+      <workItem from="1680627178584" duration="97000" />
+      <workItem from="1680627291823" duration="598000" />
+      <workItem from="1681339630904" duration="2495000" />
     </task>
     <task id="LOCAL-00001" summary="First steps">
       <created>1676557102193</created>
@@ -127,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677232999593</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="First draft">
+      <created>1678728264115</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678728264115</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +165,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First steps" />
     <MESSAGE value="New theme, switch to photon" />
-    <option name="LAST_COMMIT_MESSAGE" value="New theme, switch to photon" />
+    <MESSAGE value="First draft" />
+    <option name="LAST_COMMIT_MESSAGE" value="First draft" />
   </component>
 </project>
