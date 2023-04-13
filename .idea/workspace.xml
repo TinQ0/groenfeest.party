@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f800985-33db-4e03-9ac3-8eb2383af99c" name="Changes" comment="First draft">
-      <change afterPath="$PROJECT_DIR$/assets/css/SHREK.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/stud-logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/stud-logo.png" afterDir="false" />
+    <list default="true" id="0f800985-33db-4e03-9ac3-8eb2383af99c" name="Changes" comment="Added shrek font an link to ticket sales">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +91,7 @@
       <workItem from="1678723370927" duration="5550000" />
       <workItem from="1680627178584" duration="97000" />
       <workItem from="1680627291823" duration="598000" />
-      <workItem from="1681339630904" duration="2495000" />
+      <workItem from="1681339630904" duration="5071000" />
     </task>
     <task id="LOCAL-00001" summary="First steps">
       <created>1676557102193</created>
@@ -132,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678728264115</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added shrek font an link to ticket sales">
+      <created>1681342392057</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681342392057</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +169,7 @@
     <MESSAGE value="First steps" />
     <MESSAGE value="New theme, switch to photon" />
     <MESSAGE value="First draft" />
-    <option name="LAST_COMMIT_MESSAGE" value="First draft" />
+    <MESSAGE value="Added shrek font an link to ticket sales" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added shrek font an link to ticket sales" />
   </component>
 </project>
